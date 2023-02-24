@@ -5,7 +5,5 @@
 ### 
 
 - Jillian Korn
-- Kesley Gurnett
-- 
-- 
+- Kesley Gurnett 
 
