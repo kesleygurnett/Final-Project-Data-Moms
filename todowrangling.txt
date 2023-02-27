@@ -1,0 +1,12 @@
+Week 2 assignments:
+
+Recode GENDERFACTOR column: 0=Male, 1=Female
+
+Recode RACEFACTOR column: 0=White, 1=Black, 2=Asian or Pacific Islander, 3=Other, 4=Unknown
+
+Recode ETHNICITYFACTOR column: 0=Non-Hispanic, 1=Hispanic
+
+Remove PAYERFACTOR column
+
+Remove NA data
+
