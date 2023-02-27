@@ -11,4 +11,6 @@ Remove PAYERFACTOR column(Completed by Kes 2/26*Done in Python, will tackle R 2/
 Remove NA data
 
 Need to verify the type of data in the columns(i.e. integer, factor, date, etc.)
-
+RACEFACTOR: int64
+GENDERFACTOR: int64
+ETHNICITYFACTOR: int64
