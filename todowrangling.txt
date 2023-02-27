@@ -10,3 +10,5 @@ Remove PAYERFACTOR column(Completed by Kes 2/26)
 
 Remove NA data
 
+Need to verify the type of data in the columns(i.e. integer, factor, date, etc.)
+
