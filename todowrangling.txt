@@ -8,9 +8,12 @@ Recode ETHNICITYFACTOR column: 0=Non-Hispanic, 1=Hispanic(Completed by Kes 2/26*
 
 Remove PAYERFACTOR column(Completed by Kes 2/26*Done in Python, will tackle R 2/28)
 
-Remove NA data
+Remove NA data(Assigned to Kes)
 
 Need to verify the type of data in the columns(i.e. integer, factor, date, etc.)
 RACEFACTOR: int64
 GENDERFACTOR: int64
 ETHNICITYFACTOR: int64
+
+Create new columns and put age(in years) and age(in months)(Assigned to Jill)
+
