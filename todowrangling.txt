@@ -1,12 +1,12 @@
 Week 2 assignments:
 
-Recode GENDERFACTOR column: 0=Male, 1=Female(Completed by Kes 2/26*Done in Python, will tackle R 2/27)
+Recode GENDERFACTOR column: 0=Male, 1=Female(Completed by Kes 2/26*Done in Python, will tackle R 2/28)
 
-Recode RACEFACTOR column: 0=White, 1=Black, 2=Asian or Pacific Islander, 3=Other, 4=Unknown(Completed by Kes 2/26*Done in Python, will tackle R 2/27)
+Recode RACEFACTOR column: 0=White, 1=Black, 2=Asian or Pacific Islander, 3=Other, 4=Unknown(Completed by Kes 2/26*Done in Python, will tackle R 2/28)
 
-Recode ETHNICITYFACTOR column: 0=Non-Hispanic, 1=Hispanic(Completed by Kes 2/26*Done in Python, will tackle R 2/27)
+Recode ETHNICITYFACTOR column: 0=Non-Hispanic, 1=Hispanic(Completed by Kes 2/26*Done in Python, will tackle R 2/28)
 
-Remove PAYERFACTOR column(Completed by Kes 2/26*Done in Python, will tackle R 2/27)
+Remove PAYERFACTOR column(Completed by Kes 2/26*Done in Python, will tackle R 2/28)
 
 Remove NA data
 
