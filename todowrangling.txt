@@ -6,9 +6,9 @@ Recode RACEFACTOR column: 0=White, 1=Black, 2=Asian or Pacific Islander, 3=Other
 
 Recode ETHNICITYFACTOR column: 0=Non-Hispanic, 1=Hispanic(Completed by Kes 2/26*Done in Python, R completed 2/28)
 
-Remove PAYERFACTOR column(Assigned to Kes*Completed in Python on 2/28.)
+Remove PAYERFACTOR and ATOPICMARCHCOHORT column(Assigned to Kes*Completed in Python on 2/28, R completed 3/1.)
 
-Remove NA data(Assigned to Kes*Completed in Python on 2/28.)
+Remove NA data(Assigned to Kes*Completed in Python on 2/28. R completed 3/1.)
 
 Need to verify the type of data in the columns(i.e. integer, factor, date, etc.)
 BIRTHYEAR: int64
